@@ -1,0 +1,2102 @@
+{
+  "gallery": [
+    "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/0.jpg?alt=media&token=07dde3df-f18f-48f0-a1a6-1db5b01e7d8f",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/1.jpg?alt=media&token=e1fb930d-3678-4806-a851-42ba8fb3413e",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/2.jpg?alt=media&token=f4f99883-4193-48b2-8345-6dfcc709288c",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/3.jpg?alt=media&token=64fba9ca-42c6-427d-a338-9b743108775a",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/4.jpg?alt=media&token=ff85d87b-57ec-459f-8f12-a76dc3473ab9",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/5.jpg?alt=media&token=c0a199f0-0f2e-4d43-87a1-eebea8b7a122",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/6.jpg?alt=media&token=650855ad-7b06-44aa-912d-4e2d62255b97",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/7.jpg?alt=media&token=ff8e67a5-02e0-4c02-bbae-776ffc01ca23"
+  ],
+  "notifications": {
+    "config": {
+      "icon": "",
+      "timezone": "+03:00"
+    },
+    "messages": {},
+    "subscribers": {},
+    "test": {},
+    "users": {}
+  },
+  "partners": [
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/google.svg",
+          "name": "Google",
+          "url": "https://www.google.com.ua/intl/en/about/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google_lockup_cloud_rgb.png?alt=media&token=77bcd139-1cb0-4678-bd49-2cff17e62674",
+          "name": "Google Cloud",
+          "url": "https://www.google.com.ua/intl/en/about/"
+        }
+      ],
+      "order": 0,
+      "title": "Powered By"
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/rsz_pickme_engineering_logo.png?alt=media&token=8fb2f2a6-2bd3-4ac6-96cc-883248e20c68",
+          "name": "PickMe Engineering",
+          "url": "https://pickme.lk"
+        }
+      ],
+      "order": 1,
+      "title": "Platinum sponsor"
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/cncf-color%20(1).png?alt=media&token=fe7346df-75b1-45d9-b362-1dc7cc084f05",
+          "name": "The Cloud Native Computing Foundation",
+          "url": "https://www.cncf.io"
+        },
+        {
+          "order": 1,
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/yaalaLabs.jpg?alt=media&token=0acb7f77-76e1-4c07-9410-1687c091471f",
+          "name": "Yaala Labs",
+          "url": "https://www.yaalalabs.com/"
+        }, {
+          "order": 1,
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Ideamart-logo%20(1).png?alt=media&token=4fee3da2-41db-4c67-a6c6-54d3e9e75ac8",
+          "name": "Ideamart",
+          "url": "http://www.ideamart.lk/"
+        }
+      ],
+      "order": 2,
+      "title": "Silver Sponsor "
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/jetbrains-variant-3.svg",
+          "name": "Jetbrains",
+          "url": "https://www.jetbrains.com"
+        },
+        {
+          "order": 1,
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/elastic-logo-h-full-color-5do6e.png?alt=media&token=f889322f-4b3a-4590-88f7-a7ea987359bc",
+          "name": "elastic",
+          "url": "https://www.elastic.co"
+        },
+        {
+          "order": 2,
+          "logoUrl": "https://walls.io/build/downloads/presskit/logo-variations/logo-transparent.png",
+          "name": "Walls.io",
+          "url": "https://walls.io/"
+        }
+      ],
+      "order": 3,
+      "title": "General partners "
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/steinstudio%20(1).jpg?alt=media&token=c5ae2310-139b-4ab9-99b6-796adf2a3aa0",
+          "name": "Steinstudios",
+          "url": "http://steinstudios.lk/"
+        }
+      ],
+      "order": 4,
+      "title": "Venue Partners"
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/logo.png?alt=media&token=bd4d5c1b-07a5-4a88-b586-012c719a696d",
+          "name": "Eticketing.lk",
+          "url": "https://eticketing.lk/"
+        }
+      ],
+      "order": 5,
+      "title": "Digital Ticketing Partner"
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2Foutput.png?alt=media&token=19960e4d-eae8-4fd4-b7d8-4842ddc42ae8",
+          "name": "RSVP.lk",
+          "url": "http://rsvp.lk/"
+        }
+      ],
+      "order": 6,
+      "title": "Registration Partner"
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/sliit-foss-logo.png?alt=media&token=258a588d-f13e-4553-af4f-3802914ba10d",
+          "name": "SLIIT FOSS",
+          "url": ""
+        }
+      ],
+      "order": 7,
+      "title": "Community Partner"
+    }
+  ],
+  "schedule": {
+  "2019-11-23": {
+    "dateReadable": "November 23",
+    "timeslots": [
+      {
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "sessions": [
+          {
+            "items": [600]
+          }
+        ]
+      },
+      {
+        "startTime": "9:30",
+        "endTime": "10:30",
+        "sessions": [
+          {
+            "items": [201]
+          },
+          {
+            "items": [302]
+          },
+          {
+            "items": [401]
+          },
+          {
+            "items": [501]
+          },
+          {
+            "items": [701]
+          },
+          {
+            "items": [801]
+          }
+        ]
+      },
+      {
+        "startTime": "10:30",
+        "endTime": "11:00",
+        "sessions": [
+          {
+            "items": [602]
+          },
+          {
+            "items": [502]
+          }
+        ]
+      },
+      {
+        "startTime": "11:00",
+        "endTime": "12:30",
+        "sessions": [
+          {
+            "items": [202]
+          },{
+            "items": [301]
+          }, {
+            "items": [402]
+          },
+          {
+            "items": [503]
+          },
+          {
+            "items": [702]
+          },
+          {
+            "items": [801]
+          }
+        ]
+      },
+      {
+        "startTime": "12:30",
+        "endTime": "13:30",
+        "sessions": [
+          {
+            "items": [601]
+          }
+        ]
+      },
+      {
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "sessions": [
+          {
+            "items": [203]
+          },
+          {
+            "items": [303]
+          },
+          {
+            "items": [403]
+          },
+          {
+            "items": [504]
+          },
+          {
+            "items": [703]
+          },
+          {
+            "items": [801],
+            "extend" : 2
+          }
+        ]
+      },
+      {
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "sessions": [
+          {
+            "items": [204]
+          },
+          {
+            "items": [304]
+          },
+          {
+            "items": [404]
+          },
+          {
+            "items": [704]
+          }
+        ]
+      }
+    ],
+    "tracks": [
+
+      {
+        "title": "Class Room A"
+      },
+      {
+        "title": "Class Room B"
+      },
+      {
+        "title": "Class Room C"
+      },{
+        "title": "Class Room D"
+      },
+      {
+        "title": "Class Room E"
+      },
+      {
+        "title": "Class Room F"
+      }
+    ]
+  },
+    "2019-11-24": {
+      "dateReadable": "November 24",
+      "timeslots": [
+        {
+          "startTime": "08:30",
+          "endTime": "09:30",
+          "sessions": [
+            {
+              "items": [600]
+            }
+          ]
+        },
+        {
+          "startTime": "9:30",
+          "endTime": "10:15",
+          "sessions": [
+            {
+              "items": [603]
+            }
+          ]
+        },
+        {
+          "startTime": "10:15",
+          "endTime": "10:45",
+          "sessions": [
+            {
+              "items": [607]
+            }
+          ]
+        },
+        {
+          "startTime": "11:00",
+          "endTime": "11:45",
+          "sessions": [
+            {
+              "items": [101]
+            }
+          ]
+        },
+        {
+          "startTime": "11:45",
+          "endTime": "12:15",
+          "sessions": [
+            {
+              "items": [102]
+            }
+          ]
+        },
+        {
+          "startTime": "12:15",
+          "endTime": "13:00",
+          "sessions": [
+            {
+              "items": [103]
+            }
+          ]
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "13:45",
+          "sessions": [
+            {
+              "items": [601]
+            }
+          ]
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "14:30",
+          "sessions": [
+            {
+              "items": [104]
+            }
+          ]
+        },
+        {
+          "startTime": "14:35",
+          "endTime": "15:05",
+          "sessions": [
+            {
+              "items": [105]
+            }
+          ]
+        },
+        {
+          "startTime": "15:10",
+          "endTime": "15:40",
+          "sessions": [
+            {
+              "items": [106]
+            }
+          ]
+        },
+        {
+          "startTime": "15:45",
+          "endTime": "16:15",
+          "sessions": [
+            {
+              "items": [107]
+            }
+          ]
+        }
+      ],
+      "tracks": [
+
+        {
+          "title": "Conference hall"
+        }
+      ]
+    }
+  },
+  "sessions": {
+    "101": {
+      "complexity": "Intermediate",
+      "description": "Cloud computing has revolutionized the way developers implement and deploy applications. By running applications on large-scale compute infrastructures and programming platforms that are remotely accessible as utility services, cloud computing provides scalability, high-availability, and increased user productivity.\n\nIn this talk we will look at the nuts and bolts of real world cloud platforms. We will talk about the hardware and the data centers that physically make up the cloud, and some of the scheduling and control software that help keep cloud platforms operate continuously at scale. Finally, we will discuss the symbiotic relationship between cloud computing and mobile apps, and look at how platforms like Google Firebase make it easier to develop world-class apps powered by the cloud.",
+      "language": "English",
+      "speakers": ["Hiranya_Jayathilaka"],
+      "tags": ["Firebase","Cloud"],
+      "title": "Anatomy of the Cloud"
+    },
+    "102": {
+      "complexity": "Beginner",
+      "description": "TBD",
+      "language": "English",
+      "speakers": ["Kirill_Shmakov"],
+      "tags": ["Android","Kotlin"],
+      "title": "Kotlin Multiplatform for Mobile Development"
+    },
+    "103": {
+      "complexity": "Beginner",
+      "description": "TBD",
+      "language": "English",
+      "speakers": ["Albert_Padin"],
+      "tags": ["Cloud","ML"],
+      "title": "GCP AI Product Introduction"
+    },
+    "104": {
+      "complexity": "Beginner",
+      "description": "In this session, various tools and technologies which are used to test Gitlab will be discussed. Also it will be explained how engineering productivity is increased by using  few built-in automations.   There are few features of Gitlab which we in turn use to test Gitlab itself. Also, there are some automations that we did in the Quality team which proved to be so useful that it was incorporated as a feature in Gitlab! This talk will give a glimpse of the \"Inception\" effect of testing and building Gitlab. ",
+      "language": "English",
+      "speakers": ["Ramya_Authappan"],
+      "tags": ["Web","CI/CD"],
+      "title": "Quality Engineering @ Gitlab"
+    },
+    "105": {
+      "complexity": "Intermediate",
+      "description": "TBD",
+      "language": "English",
+      "speakers": [],
+      "tags": ["Cloud"],
+      "title": "TBD"
+    },
+    "106": {
+      "complexity": "Intermediate",
+      "description": "TBD",
+      "language": "English",
+      "speakers": [],
+      "tags": ["Cloud"],
+      "title": "PickMe Engineering 's Journey to Google Cloud Platform "
+    },
+    "107": {
+      "complexity": "Intermediate",
+      "description": "This talk will be a crash course on Themes and Styles. Demystify how styles work and how to read platform/support libraries values.xml file. Decipher which style a View uses, what attributes it exposes and how to customize them. We’ll also see how you can organize your own theme and styles to offer a consistent look and feel across your app and make branding updates a breeze.\n",
+      "language": "English",
+      "speakers": ["Saurabh_Arora"],
+      "tags": ["Android"],
+      "title": "Platform, AppCompat & now Material"
+    },
+    "201": {
+      "complexity": "Intermediate",
+      "description": "TBD",
+      "language": "English",
+      "presentation": "",
+      "speakers": [],
+      "tags": ["Kotlin"],
+      "title": "Intro to Kotlin Native"
+    },
+    "202": {
+      "complexity": "Intermediate",
+      "description": "TBD",
+      "language": "English",
+      "presentation": "",
+      "speakers": ["Kirill_Shmakov"],
+      "tags": ["Kotlin"],
+      "title": "Kotlin Multiplatform for Mobile Development"
+    },
+    "203": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": ["Kamal_Vaid"],
+      "tags": ["Android"],
+      "title": "Architecture Components and MVVM In Android"
+    },
+    "204": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": ["Saurabh_Arora"],
+      "tags": ["Android"],
+      "title": "Constraint Layout and Motion Layout"
+    },
+    "301": {
+      "complexity": "Intermediate",
+      "description": "Firebase makes it easy to build feature-rich apps. How easy? Let's try it out together! In this session we will develop an interactive web app that supports user authentication, data storage, real time updates, offline support, push notifications and more. In the process you will be introduced to Firebase Authentication, Cloud Firestore, Cloud Messaging, and several other Firebase services that are designed to make app development easy and fun. We will also briefly look at some of the newest additions to the Firebase platform such as Firebase Extensions and Remote Config for web, that allow developers to take their apps to the next level.",
+      "language": "English",
+      "presentation": "",
+      "speakers": ["Hiranya_Jayathilaka"],
+      "tags": ["Web","Firebase"],
+      "title": "Zero to app with Firebase"
+    },
+    "302": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "speakers": ["Sajeetharan_Sinnathurai"],
+      "tags": ["Web","Angular"],
+      "title": "How to Leverage Angular Schematics"
+    },
+    "303": {
+      "complexity": "Beginner",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [""],
+      "tags": ["Web"],
+      "title": ""
+    },
+    "304": {
+      "complexity": "Beginner",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": ["Vrijraj_Singh"],
+      "tags": ["Web"],
+      "title": "Progressive Web Apps"
+    },
+    "401": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": ["Nilesh_Jayanandana"],
+      "tags": ["Cloud","Kubernetes","Istio"],
+      "title": "Getting started with Istio with Google Kubernetes Engine"
+    },
+    "402": {
+      "complexity": "Intermediate",
+      "description": "TBD",
+      "language": "English",
+      "presentation": "",
+      "speakers": ["Milindu_Sanoj"],
+      "tags": ["Cloud","GCP"],
+      "title": ""
+    },
+    "403": {
+      "complexity": "Intermediate",
+      "description": "TBD",
+      "language": "English",
+      "presentation": "",
+      "speakers": ["Albert_Padin"],
+      "tags": ["Cloud"],
+      "title": "Cloud Run Codelab"
+    },
+    "404": {
+      "complexity": "Intermediate",
+      "description": "",
+      "shortDescription": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [""],
+      "tags": ["Cloud","GCP"],
+      "title": "Hello Cloud Run"
+    },
+    "501": {
+      "complexity": "",
+      "description": "",
+      "language": "English",
+      "speakers": ["Vaibhavi_Desai"],
+      "tags": ["WTM"],
+      "title": "WTM Breakfast"
+    },
+    "502": {
+      "complexity": "",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [""],
+      "tags": ["IamRemarkable","WTM"],
+      "title": "IamRemarkable",
+      "videoId": ""
+    },
+    "503": {
+      "complexity": "Beginner",
+      "description": "TBD",
+      "language": "English",
+      "speakers": [],
+      "tags": ["WTM"],
+      "title": "TBD"
+    },
+    "504": {
+      "complexity": "",
+      "description": "",
+      "language": "English",
+      "speakers": [""],
+      "tags": ["AOG","DialogFlow","WTM"],
+      "title": "Create own voice application"
+    },
+    "701": {
+      "complexity": "Intermediate",
+      "description": "TBD",
+      "language": "English",
+      "speakers": ["keshan_sodimana"],
+      "tags": ["ML"],
+      "title": "TBD"
+    },
+    "702": {
+      "complexity": "Intermediate",
+      "description": " TBD",
+      "language": "English",
+      "speakers": ["Shweta_Bhatt"],
+      "tags": ["ML"],
+      "title": "Introduction to word vector representations"
+    },
+    "703": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "speakers": ["Irum_Zahra"],
+      "tags": ["ML"],
+      "title": "TBD"
+    },
+    "704": {
+      "complexity": "Beginner",
+      "description": "",
+      "language": "English",
+      "speakers": [""],
+      "tags": ["ML"],
+      "title": "TBD"
+    },
+    "801": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": ["Srimal_Nishantha","Nipuna_Pathirana","Aruna_Prabhashwara","Wishwa_Prasad"],
+      "tags": ["Go"],
+      "title": "Go Zero to Hero"
+    }, "802": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [""],
+      "tags": ["Go"],
+      "title": "TBD"
+    }, "803": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [""],
+      "tags": ["Go"],
+      "title": "TBD"
+    }, "804": {
+      "complexity": "Intermediate",
+      "description": "",
+      "language": "English",
+      "presentation": "",
+      "speakers": [""],
+      "tags": ["Go"],
+      "title": "TBD"
+    },
+    "130": {
+      "complexity": "Intermediate",
+      "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
+      "language": "English",
+      "speakers": ["constantine_mars"],
+      "tags": ["Android"],
+      "title": "Designing an Android Wear Application"
+    },
+    "131": {
+      "complexity": "Intermediate",
+      "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
+      "language": "English",
+      "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
+      "speakers": ["resul_caner__yildirim"],
+      "tags": ["Android"],
+      "title": "Deal with it: Android DataBinding explained"
+    },
+    "600": {
+      "description": "Get your badge and enjoy talking with tech edicts around",
+      "icon": "registration",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+      "title": "Registration"
+    },
+    "601": {
+      "description": "Foooooooood!",
+      "icon": "lunch",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+      "title": "Lunch"
+    },
+    "602": {
+      "description": "Coffeeeeeee!",
+      "icon": "coffee-break",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+      "title": "Coffee break"
+    },
+    "603": {
+      "description": "Coffeeeeeee!",
+      "icon": "coffee-break",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
+      "title": "Morning coffee"
+    },
+    "604": {
+      "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+      "icon": "opening",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+      "language": "English",
+      "title": "GDG DevFest Sri Lanka 2019 Opening"
+    },
+    "605": {
+      "description": "Afterparty is a great time to have some fun and meet new people",
+      "icon": "party",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
+      "title": "Afterparty & Networking"
+    },
+    "606": {
+      "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+      "title": "Conference closing and contest winners announcements"
+    },
+    "607": {
+      "description": "Which covers advancements in AI, how AI is helping citizens, Edge AI and Edge TPUs, potential AI unlocks, and the future of AI",
+      "language": "English",
+      "title": "Keynote - Cruising on AI Wave",
+      "speakers": ["Siddhant_Agarwal"],
+      "tags": ["AI","ML"]
+    },
+    "140": {
+      "description": "TBD",
+      "language": "English",
+      "title": "TBD"
+    }
+  },
+  "speakers": {
+    "Hiranya_Jayathilaka": {
+      "bio": "Hiranya is a tech lead on the Google Firebase team. He works on the Firebase Admin SDKs, which enable server-side and backend integrations of Firebase. Prior to joining Google, Hiranya worked as a software engineer at WSO2, where he developed open source enterprise integration and API management technologies. He is a committer and a project management committee member for several Apache projects.\n\nHiranya earned a bachelor’s degree in engineering from University of Moratuwa. He also received a Ph.D. in computer science from University of California, Santa Barbara. Hiranya’s dissertation focuses on the governance of cloud applications via policies, SLOs and programming language techniques. He has published original research in numerous peer-reviewed journals and conferences specialized in cloud computing and web services",
+      "company": "Google",
+      "companyLogo": "../images/logos/google.svg",
+      "companyLogoUrl": "../images/logos/google.svg",
+      "country": "Mountain View, California",
+      "featured": true,
+      "name": "Hiranya Jayathilaka",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/hkj.jpg?alt=media&token=09243e79-8cdd-48b6-85f7-d2d21ddca4a6",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/hkj.jpg?alt=media&token=09243e79-8cdd-48b6-85f7-d2d21ddca4a6",
+      "shortBio": "Hiranya is a tech lead on the Firebase team. He works on Firebase Admin SDKs that enable backend integrations of Firebase.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/hiranyajayathilaka",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Senior Software Engineer",
+          "link": "",
+          "name": "google"
+        }
+      ],
+      "title": "Senior Software Engineer"
+    },
+    "Siddhant_Agarwal": {
+      "bio": "He lead Google Developer Expert Program and Broader Developer Communities Program as part of Google Developer Relations team in India. His roles include:\n- Identify, work closely and build relationship with 45+ Google Developer Experts in India.\n- Working closely with internal stakeholders and Product Area POCs involved in running the program.\n- Deliver trainings, sessions at Google Developers led or 3rd party conferences.\n- Identify, work closely and build relationship with other third party communities in India.\n- Establish relationship between 1P Developer communities (40+ GDG and GDG Cloud communities in India) and 3P communities in India.\n- Leading strategic efforts towards Build for Digital India Program to enable student entrepreneurs and student developers \"Solve for India\"\n- Working closely with various Product Areas POCs and developers in the region to understand the state of technology/product area in India",
+      "company": "Google",
+      "companyLogo": "../images/logos/google.svg",
+      "companyLogoUrl": "../images/logos/google.svg",
+      "country": "India",
+      "featured": true,
+      "name": "Siddhant Agarwal",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/1.jpg?alt=media&token=d85429d8-156b-424d-98fa-3883711c84f0",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/1.jpg?alt=media&token=d85429d8-156b-424d-98fa-3883711c84f0",
+      "shortBio": "He lead Google Developer Expert Program and Broader Developer Communities Program as part of Google Developer Relations team in India.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/siddhantagarwal",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Program Coordinator, Google Developer Relations",
+          "link": "https://www.linkedin.com/in/siddhantagarwal",
+          "name": "google"
+        }
+      ],
+      "title": "Program Coordinator, Google Developer Relations"
+    },
+    "Vaibhavi_Desai": {
+      "bio": "Vaibhavi leads the Machine Learning and Women Techmakers programs as a part of Google's DevRel team in Southeast Asia.",
+      "company": "Google",
+      "companyLogo": "../images/logos/google.svg",
+      "companyLogoUrl": "../images/logos/google.svg",
+      "country": "Singapore",
+      "featured": true,
+      "name": "Vaibhavi Desai",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/VB.jpeg?alt=media&token=857aa7de-7e74-404f-b2ff-0bb1ecff3992",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/VB.jpeg?alt=media&token=857aa7de-7e74-404f-b2ff-0bb1ecff3992",
+      "shortBio": "Vaibhavi leads the Machine Learning and Women Techmakers programs as a part of Google's DevRel team in Southeast Asia",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vaibhavihdesai",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": "DevRel Programs Specialist, Southeast Asia",
+          "link": "",
+          "name": "google"
+        }
+      ],
+      "title": "DevRel Programs Specialist, Southeast Asia"
+    },
+    "Shweta_Bhatt": {
+      "bio": "Data Scientist, currently working in the AI team at Youplus, a startup based out of Bangalore and headquartered in New York City. She specializes in building a range of machine learning based products mostly within the NLP domain. She holds an undergraduate degree from Birla Institute of Technology and Science, Pilani in Information Systems and a Master's degree from King's College London in Artificial Intelligence. She has previously worked as a Software Developer at Cisco Systems and Apigee (acquired by Google in 2016) before transitioning into her AI career. She also has research experience at King's College London within the NetSys and the Biostatistics & Health Informatics research groups and has a paper - Illuminating and ecosystem of partisan websites published at the Web Conference 2018. Apart from this, she likes to contribute to the ML community by writing tech blogs which have been published in KDnuggets and TowardsDataScience on Medium. She is a mentor at Springboard, an online learning platform, through which she helps aspiring learners get started with their Data Science and AI/ML careers. She is also an AI consultant for a retail startup called SprintAI. Her interests within AI include Natural Language Processing, Deep Learning, Reinforcement Learning and Game Theory.",
+      "company": "Youplus",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
+      "country": "Bangalore, India.",
+      "featured": true,
+      "name": "Shweta Bhatt",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/1%20-%20Shweta%20Bhatt.jpg?alt=media&token=868bc1e6-97bb-4127-8ae8-2105f145f0f9",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/1%20-%20Shweta%20Bhatt.jpg?alt=media&token=868bc1e6-97bb-4127-8ae8-2105f145f0f9",
+      "shortBio": "Data Scientist, currently working in the AI team at Youplus, a startup based out of Bangalore and headquartered in New York City. She specializes in building a range of machine learning based products mostly within the NLP domain.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/shweta-bhatt-1a930b12",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Machine Learning Google Developer Expert",
+          "link": "",
+          "name": "gde"
+        }
+      ],
+      "title": "Data Scientist"
+    },
+    "Kirill_Shmakov": {
+      "bio": "He has been a member of the JetBrains team since the beginning of 2019. Being part of the Kotlin project, he works on IDE support for Kotlin/Native. Before Jetbrains he was at the geo division at yandex for 6 years, where he supported the backend of Yandex. He worked on Maps with the focus on visual data serving and interaction with the mobile team. His master's degree is in mathematics from SPb SU was accopanied by a two year experience in applied mathematics in a gradute study of McGill University.",
+      "company": "Jetbrains",
+      "companyLogo": "https://devfest19.gdgsrilanka.org/images/logos/jetbrains-variant-3.svg",
+      "companyLogoUrl": "https://devfest19.gdgsrilanka.org/images/logos/jetbrains-variant-3.svg",
+      "country": "St. Petersburg, Russia",
+      "featured": true,
+      "name": "Kirill Schmakov",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/kirill_schmakov.jpg?alt=media&token=4883c8aa-d44c-49d4-bcc7-da5dbaa3392c",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/kirill_schmakov.jpg?alt=media&token=4883c8aa-d44c-49d4-bcc7-da5dbaa3392c",
+      "shortBio": "He is a member of the IDE support team for Kotlin in JetBrains",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/kirill-shmakov-22069567/",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [],
+      "title": "Software Engineer"
+    },"Ramya_Authappan": {
+      "bio": "Ramya is passionate about building and designing test frameworks. She has around 10 years of experience and is currently enjoying her role as Quality Engineering Manager at Gitlab. Prior to Gitlab, she has worked with PayPal and Amazon. “Simple, but powerful” is her slogan for building test frameworks/tools. She is also the Director of WomenWhoCode, Chennai and helps in organising meetups for the same, encouraging women in technology. When she's not working, you can find her spending time with her kid and hanging out with friends.\n",
+      "company": " Gitlab",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/rsz_gitlab-logo-gray-rgb.png?alt=media&token=078a437a-b0df-4f42-ab6f-94c743783023",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/rsz_gitlab-logo-gray-rgb.png?alt=media&token=078a437a-b0df-4f42-ab6f-94c743783023",
+      "country": "Chennai,India",
+      "featured": true,
+      "name": "Ramya Authappan",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/headshot.jpg?alt=media&token=aafcaa0e-ffcb-4038-b6ef-655bf48346bf",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/headshot.jpg?alt=media&token=aafcaa0e-ffcb-4038-b6ef-655bf48346bf",
+      "shortBio": "Ramya is passionate about building and designing test frameworks. She has around 10 years of experience and is currently enjoying her role as Quality Engineering Manager at Gitlab.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ramyaat",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [],
+      "title": "Engineering Manager"
+    },
+    "Albert_Padin": {
+      "badges": [
+        {
+          "description": "Google Cloud Platform, Machine Learning",
+          "link": "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-albert_padin",
+          "name": "gde"
+        }
+      ],
+      "bio": "Albert is a developer and entrepreneur who's worked on consumer, enterprise, and government software products. He is the co-founder and CTO of Symph, a design, development, and startup studio. At Symph, he has architected and developed solutions for 500 Startups, Office of the President of the Philippines, and the World Bank. Albert leads a diverse team of developers in creating software solutions. He ensures that the team's output is high quality and performs well at scale. Albert is also passionate about empowering startups and has been involved in the Philippine Startup Ecosystem, by facilitating and mentoring at Startup Weekends and other events. Prior to that, Albert started SpellDial, directed plays, and mentored street children. He studied Information Technology at the Centre for International Education Global Colleges. He lives in Cebu City, Philippines with his wife. His interests include theatre, performing arts, and the non-trivial act of eradicating poverty.",
+      "company": "Symph",
+      "companyLogo": "https://media.licdn.com/dms/image/C510BAQE376nsMXIYQA/company-logo_400_400/0?e=1577923200&v=beta&t=Ux1sCQwFZipLWdH7YSFlMKxCGKoOArrWbbWurkOxuJE",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQE376nsMXIYQA/company-logo_400_400/0?e=1577923200&v=beta&t=Ux1sCQwFZipLWdH7YSFlMKxCGKoOArrWbbWurkOxuJE",
+      "country": "Cebu, Philippines",
+      "featured": true,
+      "name": "Albert Padin",
+      "photo": "https://lh5.googleusercontent.com/-tmpLMtYWiVE/AAAAAAAAAAI/AAAAAAAAMJw/5D7JvbPNprg/s172-c/photo.jpg",
+      "photoUrl": "https://lh5.googleusercontent.com/-tmpLMtYWiVE/AAAAAAAAAAI/AAAAAAAAMJw/5D7JvbPNprg/s172-c/photo.jpg",
+      "shortBio": "Albert is a developer and entrepreneur who's worked on consumer, enterprise, and government software products. He is the co-founder and CTO of Symph, a design, development, and startup studio.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/albertpadin/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Co-Founder & CTO"
+    },
+    "keshan_sodimana": {
+      "bio": "Keshan is the former country engineering consultant for Google Sri Lanka. Keshan was the GDG lead and founder for GDG Sri Lanka. Before joining Google, he was a Software Developer for IFS, and he is a co-founder of Siyomek Holdings",
+      "company": "Open Data",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
+      "country": "Sri Lanka",
+      "featured": false,
+      "name": "Keshan Sodimana",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F1901173_10203074120595094_1450286311_n.jpg?alt=media&token=aad38900-f8e7-4f71-9bca-f9c64157c75c",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F1901173_10203074120595094_1450286311_n.jpg?alt=media&token=aad38900-f8e7-4f71-9bca-f9c64157c75c",
+      "shortBio": "Keshan is the former country engineering consultant for Google for Sri Lanka. Keshan was the GDG lead and founder for GDG Sri Lanka. Before joining Google, he was a Software Developer for IFS, and he is a co-founder of Siyomek Holdings",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/keshan",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Machine Learning Google Developer Expert",
+          "link": "",
+          "name": "gde"
+        }
+      ],
+      "order": 0,
+      "title": "GDE Machine Learning"
+    },
+    "Sajeetharan_Sinnathurai": {
+      "badges": [
+        {
+          "description": "Angular Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/sajeetharan-sinnathurai",
+          "name": "gde"
+        }
+      ],
+      "bio": "With over 8 years of experience in the ICT industry, Sajeetharan Sinnathurai is a full stack developer, an enthusiast in Cloud and Web Development. He currently works at Microsoft as a Technical Evangelist. His skill in Web Application Architecture, Cloud and more has seen him become a Microsoft MVP in Developer Technologies, Google developer expert in Web technology. Sajeetharan is also the top contributor on stack Overflow in Sri Lanka and he ranks among the top 10 contributors in the world on Angular, Cosmos DB, etc. He is also a reviewer on https://www.packtpub.com/ .He now focuses on channeling his knowledge into open source projects and sharing it with the community by mentoring,creating POCS,running workshops,writing blogs to help make the world a better and more developed place.",
+      "company": "Microsoft",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Microsoft-Logo-PNG.png?alt=media&token=48c6415b-2af6-42fc-9635-a3b812d221dd",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Microsoft-Logo-PNG.png?alt=media&token=48c6415b-2af6-42fc-9635-a3b812d221dd",
+      "country": "Colombo , Sri Lanka",
+      "featured": false,
+      "name": "Sajeetharan Sinnathurai",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F29025393_10155092599246441_7284857292248571903_n%20-%20Sajeetharan%20Sinnathurai.jpg?alt=media&token=70bf3519-554d-46cf-8ea9-20b030e0d6ce",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F29025393_10155092599246441_7284857292248571903_n%20-%20Sajeetharan%20Sinnathurai.jpg?alt=media&token=70bf3519-554d-46cf-8ea9-20b030e0d6ce",
+      "shortBio": "Sajeetharan is a full stack developer with over 8 years of experience.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sajeetharan",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Cloud Solution Architect"
+    },
+    "Kamal_Vaid": {
+      "bio": "He is working as a Technology Lead in Infosys Limited at Chandigarh, where he is exploring Android. he is been working on Android for more 6 years now. he also handle teams for Android and Flutter here.Apart from working experience,he is community lover. he is the organizer for GDG Chandigarh and GDE for Google Assistant. he write blogs on Android and Google Assistant on regular basis. ",
+      "company": "Infosys Limited",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/400px-Infosys_logo.svg.png?alt=media&token=ed371161-246e-499a-9f12-be82d867f1a2",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/400px-Infosys_logo.svg.png?alt=media&token=ed371161-246e-499a-9f12-be82d867f1a2",
+      "country": "Chandigarh, India",
+      "featured": false,
+      "name": "Kamal Vaid",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/IMG_20190729_022015_012%20(1)%20-%20smart%20solutions.jpg?alt=media&token=33367668-6d7a-4fd2-8c82-b77fcbcdaf3e",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/IMG_20190729_022015_012%20(1)%20-%20smart%20solutions.jpg?alt=media&token=33367668-6d7a-4fd2-8c82-b77fcbcdaf3e",
+      "shortBio": "He is working as a Technology Lead in Infosys Limited at Chandigarh, where he is exploring Android. he is been working on Android for more 6 years now.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/kamal-vaid",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Google Assistant Google Developer Expert",
+          "link": "",
+          "name": "gde"
+        }
+      ],
+      "title": "Technology Lead"
+    },
+    "Saurabh_Arora": {
+      "bio": "Saurabh has been building Android apps for 6 years. Currently a part of the Android team at Viki, Singapore, he has been instrumental in increasing the capabilities and performance of the Viki app, which has been nominated for Google Play Awards, been an Android Excellence awardee, part of the editor's choice apps and launch partners for Android Go and Instant Apps. He believes that one should not only take from the community but also give back to them and hence shares his learnings through blog posts, open-source projects and talks at local meetups, events, and conferences. Outside of engineering, he is a big tennis and cricket fan.",
+      "company": "Rakuten Viki",
+      "companyLogo": "https://images-eu.ssl-images-amazon.com/images/I/41fLQDXrS3L.png",
+      "companyLogoUrl": "https://images-eu.ssl-images-amazon.com/images/I/41fLQDXrS3L.png",
+      "country": "singapore",
+      "featured": true,
+      "name": "Saurabh Arora",
+      "photo": "https://scontent-sin2-1.xx.fbcdn.net/v/t31.0-1/c420.0.960.960a/p960x960/26170687_10155580504659270_2209297553585625245_o.jpg?_nc_cat=111&_nc_oc=AQlid7Uux8bOgdY5UVeoKEEaxGLIXwYnN-n1HW1iTVtcA5RClb4OsbYiN39vbtdMImQ&_nc_ht=scontent-sin2-1.xx&oh=7bd7c36af4086bf582c979ff732c1efb&oe=5E3414D3",
+      "photoUrl": "https://scontent-sin2-1.xx.fbcdn.net/v/t31.0-1/c420.0.960.960a/p960x960/26170687_10155580504659270_2209297553585625245_o.jpg?_nc_cat=111&_nc_oc=AQlid7Uux8bOgdY5UVeoKEEaxGLIXwYnN-n1HW1iTVtcA5RClb4OsbYiN39vbtdMImQ&_nc_ht=scontent-sin2-1.xx&oh=7bd7c36af4086bf582c979ff732c1efb&oe=5E3414D3",
+      "shortBio": "Saurabh has been building Android apps for 6 years. Currently a part of the Android team at Viki, Singapore.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/company/viki",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": " Google Developer Expert Android",
+          "link": "https://developers-dot-devsite-v2-prod.appspot.com/community/experts/directory/profile/profile-saurabh_arora",
+          "name": "gde"
+        }
+      ],
+      "title": "Technology Lead"
+    },
+    "Irum_Zahra": {
+      "bio": "Irum is working in industry for more than 3 years. During her experiences she worked closely with tech startups. She led the team responsible for developing Artificial Intelligence based surveillance solutions. Irum is very enthusiastic about technology so apart from working in tech industry she co-founded Islamabad.AI to train students to minimize the gap between academia and industry. Irum is leading Pakistan's first Google Developers Group (GDG) CLOUD in Islamabad and also serving as a Google's Women Techmakers Ambassador. Irum believes strongly in giving back to the community and empowering women in STEM fields. Irum is currently working at Red Buffer as Machine Learning Engineer. \nTechnical enthusiasm aside, Irum is very passionate and eager about adventure and travelling the world to get acquaintance with different cultures in different areas of world. She loves cars, dogs and food.",
+      "company": " GDG Cloud Islamabad",
+      "companyLogo": "https://media.licdn.com/dms/image/C510BAQHfVscZaA-3Vg/company-logo_400_400/0?e=1580947200&v=beta&t=veabjJfKVuvzp45xQ-bwh9pyU9rgWracv7yS7_S-LdI",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQHfVscZaA-3Vg/company-logo_400_400/0?e=1580947200&v=beta&t=veabjJfKVuvzp45xQ-bwh9pyU9rgWracv7yS7_S-LdI",
+      "country": "Islamabad, Pakistan",
+      "featured": true,
+      "name": "Irum Zahra",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/irum.jpeg?alt=media&token=8efed1fd-35cb-4a93-82bf-62bf14cef518",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/irum.jpeg?alt=media&token=8efed1fd-35cb-4a93-82bf-62bf14cef518",
+      "shortBio": "Irum is working in industry for more than 3 years. During her experiences she worked closely with tech startups. She led the team responsible for developing Artificial Intelligence based surveillance solutions. ",
+      "badges": [
+        {
+          "description": "GDG Cloud Islamabad",
+          "link": "",
+          "name": "gdg"
+        }],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://www.linkedin.com/in/irum-zahra-awan-1168a6115",
+          "name": "Twitter"
+        }
+      ],
+      "title": " Women Techmaker Ambassador and GDG CLOUD Manage"
+    },
+    "Vrijraj_Singh": {
+      "bio": "He Is Google Developers Expert for Web Technologies and Community Organizer of GDG Jalandhar(Punjab, India). I've deliver lots of talks, sessions and workshops,and also i've developed Aura App for GDGx community management website.",
+      "company": "",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
+      "country": "Punjab, India",
+      "featured": false,
+      "name": "Vrijraj Singh",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/vijay.jpg?alt=media&token=970ad00d-29a0-4ed1-bed0-8087cf96ae0e",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/vijay.jpg?alt=media&token=970ad00d-29a0-4ed1-bed0-8087cf96ae0e",
+      "shortBio": "He Is Google Developers Expert for Web Technologies and Community Organizer of GDG Jalandhar(Punjab, India).",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vrijraj",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": "Web Technologies Google Developers Expert",
+          "link": "",
+          "name": "gde"
+        }
+      ],
+      "title": "Web Technologies Google Developers Expert"
+    },
+    " Indra_Maryati": {
+      "bio": "Sharing and teaching is her passion. she Started learning Android since 2009. From that she always enthusiast in learning about Google Technologies, especially Android. Now her working as a lecturer in Mobile Development, UI/UX and Database fields. To fulfill her sharing passion, she joining and managing GDG Surabaya for about 7 years.",
+      "company": "GDG Surabaya",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Surabaya, Indonesia",
+      "featured": true,
+      "name": " Indra Maryati",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/indra.jpg?alt=media&token=9cdf0867-fe87-4e96-8b47-24fa207589e2",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/indra.jpg?alt=media&token=9cdf0867-fe87-4e96-8b47-24fa207589e2",
+      "shortBio": "Sharing and teaching is her passion. she Started learning Android since 2009. From that she always enthusiast in learning about Google Technologies, especially Android. Now her working as a lecturer in Mobile Development, UI/UX and Database fields. To fulfill her sharing passion, she joining and managing GDG Surabaya for about 7 years.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/indramaryati",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": "GDG Surabaya",
+          "link": "",
+          "name": "gdg"
+        }
+      ],
+      "title": "GDG Surabaya Organizer"
+    },
+    "Nilesh_Jayanandana": {
+      "bio": " With over 5 years of experience in the industry, Nilesh Jayanandana is one of the lead architects at Platformer Cloud where they are building a Cloud Solution on top of Kubernetes. He is the community lead in the Cloud Native Computing Foundation Community Group Kubernetes Sri Lanka and is a public speaker on the topics of Kubernetes, Cloud, Containers and Web Technologies. Graduated with a BSc in Information Technology specializing in Software Engineering from Sri Lanka Institute of Information Technology, he further has achieved the qualifications of Google Cloud Authorized Trainer and Google Cloud Authorized Google Cloud Professional Architect. He loves collaborating with others and sharing his knowledge to help people whenever he can.",
+      "company": "Platformer Cloud",
+      "companyLogo": "https://platformer.com/_next/static/images/platformer-logo-a74fb790c080232551929c0060e0ae17.svg",
+      "companyLogoUrl": "https://platformer.com/_next/static/images/platformer-logo-a74fb790c080232551929c0060e0ae17.svg",
+      "country": "Colombo , Sri Lanka",
+      "featured": false,
+      "name": "Nilesh Jayanandana",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/IMG_8323.jpeg?alt=media&token=8dee2835-f92f-4350-8bc1-a05e22ae6a39",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/IMG_8323.jpeg?alt=media&token=8dee2835-f92f-4350-8bc1-a05e22ae6a39",
+      "shortBio": "With over 5 years of experience in the industry, Nilesh Jayanandana is one of the lead architects at Platformer Cloud where they are building a Cloud Solution on top of Kubernetes.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nilesh93",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Architect"
+    },
+    "Srimal_Nishantha": {
+      "bio": " ",
+      "company": "Pick Me",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/rsz_pickme_engineering_logo.png?alt=media&token=8fb2f2a6-2bd3-4ac6-96cc-883248e20c68",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/rsz_pickme_engineering_logo.png?alt=media&token=8fb2f2a6-2bd3-4ac6-96cc-883248e20c68",
+      "country": "Colombo , Sri Lanka",
+      "featured": false,
+      "name": "Srimal Nishantha",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Srimal.jpg?alt=media&token=7b760d90-173c-4277-bd96-2b76e14c3cd8",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Srimal.jpg?alt=media&token=7b760d90-173c-4277-bd96-2b76e14c3cd8",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Senior Software Engineer"
+    }, "Nipuna_Pathirana": {
+      "bio": " ",
+      "company": "Pick Me",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/rsz_pickme_engineering_logo.png?alt=media&token=8fb2f2a6-2bd3-4ac6-96cc-883248e20c68",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/rsz_pickme_engineering_logo.png?alt=media&token=8fb2f2a6-2bd3-4ac6-96cc-883248e20c68",
+      "country": "Colombo , Sri Lanka",
+      "featured": false,
+      "name": "Nipuna Pathirana",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Nipuna.jpg?alt=media&token=a2710103-e7df-430a-a6cb-ea38d6261ec0",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Nipuna.jpg?alt=media&token=a2710103-e7df-430a-a6cb-ea38d6261ec0",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Software Engineer"
+    },"Aruna_Prabhashwara": {
+      "bio": " ",
+      "company": "Pick Me",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/rsz_pickme_engineering_logo.png?alt=media&token=8fb2f2a6-2bd3-4ac6-96cc-883248e20c68",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/rsz_pickme_engineering_logo.png?alt=media&token=8fb2f2a6-2bd3-4ac6-96cc-883248e20c68",
+      "country": "Colombo , Sri Lanka",
+      "featured": false,
+      "name": "Aruna Prabhashwara",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/aruna_cv_photo_2.jpg?alt=media&token=dba62d32-bc9a-4800-ba80-62d59e2345e7",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/aruna_cv_photo_2.jpg?alt=media&token=dba62d32-bc9a-4800-ba80-62d59e2345e7",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Software Engineer"
+    },
+    "Wishwa_Prasad ": {
+      "bio": " ",
+      "company": "Pick Me",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/rsz_pickme_engineering_logo.png?alt=media&token=8fb2f2a6-2bd3-4ac6-96cc-883248e20c68",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/rsz_pickme_engineering_logo.png?alt=media&token=8fb2f2a6-2bd3-4ac6-96cc-883248e20c68",
+      "country": "Colombo , Sri Lanka",
+      "featured": false,
+      "name": "Wishwa Prasad Perera",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Wishwa.jpg?alt=media&token=cdcac49d-62b5-4224-8f2c-834caedcfdb8",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Wishwa.jpg?alt=media&token=cdcac49d-62b5-4224-8f2c-834caedcfdb8",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Software Engineer"
+    }
+  },
+  "team": [
+    {
+      "members": [
+        {
+          "name": "Pamuditha Imalka",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fpamuditha.jpg?alt=media&token=bb514fb4-87d6-4302-b63c-f9228ae15766",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/pamuim",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Pamudithaimalka",
+              "name": "Twitter"
+            }
+          ],
+          "order": 1,
+          "title": "Guy who gives tasks to others, pulls hair when deadlines are near"
+        },
+        {
+          "name": "Milindu Sanoj",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmilidu.jpg?alt=media&token=5bbfeb1d-542d-4172-aaa6-b75c58a7c015",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/agentmilindu",
+              "name": "Facebook"
+            }
+          ],
+          "order": 2,
+          "title": "Person, who knows the most about meals"
+        },
+        {
+          "name": "Tharaka Devinda",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Ftharaka.jpg?alt=media&token=ef994ec9-f5a2-45ae-bb21-fb5b1a376ff0",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/tdevinda",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/tdevinda",
+              "name": "Facebook"
+            }
+          ],
+          "order": 3,
+          "title": "Most probable reason you didn't get a ticket..."
+        },
+        {
+          "name": "Udaya Gunathilaka",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fudaya.png?alt=media&token=92cf0007-b128-462d-af43-1f1a9d902d2e",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/umgunathilaka",
+              "name": "Facebook"
+            }
+          ],
+          "order": 4,
+          "title": "Lights, sounds and wow"
+        },
+        {
+          "name": "Pasan Ranathunga",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fpasan.jpg?alt=media&token=58d661e8-1e91-4054-853f-eaea1146ed14",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/pasan.artz",
+              "name": "Pasbook"
+            }
+          ],
+          "order": 5,
+          "title": "Pasdio, Pastakes, Pasming and all things Pas! you name it. He has it.! Check out his Pasbook.!"
+        },
+        {
+          "name": "Michela Thalagala",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmichela.png?alt=media&token=adfa761c-2d29-497b-8bad-f44229c2c2fb",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/michela.thalagala",
+              "name": "Facebook"
+            }
+          ],
+          "order": 6,
+          "title": "If there's anything with a unicorn printed on it, its probably her work."
+        },
+        {
+          "name": "Dilini Madhubhashini",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fdilini.jpg?alt=media&token=eca3ce49-330b-4eee-9e73-3a0eefd2ec60",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/dilini.m.weerasinghe",
+              "name": "Facebook"
+            }
+          ],
+          "order": 7,
+          "title": "Even black cats don't cross her path. Its too risky."
+        },
+        {
+          "name": "Raveen Harith",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fraveen.png?alt=media&token=cd4efdf6-41fa-4249-85da-af109588bece",
+          "order": 8,
+          "title": "He loves models, just the ML kind."
+        }
+      ],
+      "title": "Core Team"
+    }
+  ],
+  "tickets": [
+    {
+      "available": true,
+      "currency": "",
+      "ends": "",
+      "inDemand": false,
+      "info": "850 tickets",
+      "name": "Workshops",
+      "price": "FREE",
+      "regular": true,
+      "soldOut": false,
+      "starts": "Nov 23",
+      "url": "http://rsvp.lk/gdgsrilanka/devfest-2019/register-workshop"
+    },
+    {
+      "available": true,
+      "currency": "Rs",
+      "ends": "",
+      "inDemand": true,
+      "info": "850 tickets",
+      "name": "Main Conference",
+      "price": 750,
+      "regular": true,
+      "soldOut": false,
+      "starts": "Nov 24",
+      "url": "http://rsvp.lk/gdgsrilanka/devfest-2019/register"
+    }
+  ],
+  "triggers": {
+    "images": false
+  },
+  "videos": [
+    {
+      "speakers": "Yonatan Levin",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(65).jpg?alt=media&token=f25f04cf-9a10-42ed-b2ff-e41fad910c39",
+      "title": "Making mistakes and building products from 1st to 30M users",
+      "youtubeId": "hUY8jg9-ieE"
+    },
+    {
+      "speakers": "Britt Barak",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(92).jpg?alt=media&token=0dfc3002-6d6e-4e9f-8518-5941fc501a04",
+      "title": "When your app is asleep",
+      "youtubeId": "D6WEL_inXxk"
+    },
+    {
+      "speakers": "Asim Hussain",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(173).jpg?alt=media&token=779549b7-6578-4092-9e32-7785fff270c5",
+      "title": "How to hack a node app?",
+      "youtubeId": "iN92OsbtgGI"
+    },
+    {
+      "speakers": "Marcos Placona",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(186).jpg?alt=media&token=54b241f6-b1d4-4357-b5a3-05e00ed55814",
+      "title": "I just hacked your app!",
+      "youtubeId": "GrLYrJ-aNSE"
+    },
+    {
+      "speakers": "Mateusz Herych",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(238).jpg?alt=media&token=805c0d09-95ed-4d8b-8b87-85f3c4c5f427",
+      "title": "Release Android apps globally with no headache and minimum stress",
+      "youtubeId": "OhcJqVEnc7I"
+    },
+    {
+      "speakers": "Shmuela Jacobs",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(271).jpg?alt=media&token=dfbf87f8-5a72-44cd-b2b1-3388b65ffebb",
+      "title": "Web goes Native: Progressive Web Apps with Angular",
+      "youtubeId": "OcIZS4jNgP0"
+    },
+    {
+      "speakers": "Martin Splitt",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(81).jpg?alt=media&token=3ff4ca98-5b27-4253-a0ae-e740b6dc45a3",
+      "title": "A look at the guts of Polymer 2.0",
+      "youtubeId": "tRdx6Q5x3Fw"
+    },
+    {
+      "speakers": "Mete Atamel",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(197).jpg?alt=media&token=83227977-a290-4816-875f-67b71586111e",
+      "title": "Apache Beam and Google Cloud DataFlow",
+      "youtubeId": "RxHijHZd0oM"
+    },
+    {
+      "speakers": "Dmitriy Novakovskiy",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(169).jpg?alt=media&token=15f84e75-f070-4fe8-9d94-454bdf672bf9",
+      "title": "Google Cloud Spanner: Going global with relational database",
+      "youtubeId": "iGMjK8UY9gQ"
+    },
+    {
+      "speakers": "Jose Aguinaga",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(213).jpg?alt=media&token=9b25ad9a-10d0-4887-8595-816662dc4402",
+      "title": "Buy my mixtape: the Payment Request API in action",
+      "youtubeId": "uDPRrmjmAD0a"
+    },
+    {
+      "speakers": "Denis Radin",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(345).jpg?alt=media&token=f3e71338-c085-4fe7-b6cf-c7ef8212c930",
+      "title": "Applying NASA coding guidelines to JavaScript or airspace is closer than you may think",
+      "youtubeId": "E4fpZm17GNI"
+    },
+    {
+      "speakers": "Yonatan Levin",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(369).jpg?alt=media&token=453207bd-cb21-41b6-a2e5-9da05273788d",
+      "title": "Architecture Components. The one that got away",
+      "youtubeId": "FzmDFscF41o"
+    },
+    {
+      "speakers": "Michael Pustovit",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(377).jpg?alt=media&token=8c9ec397-1a38-4d7c-95ca-7d55f499eb37",
+      "title": "Gradle scripts in Kotlin: is it cool?",
+      "youtubeId": "XLNJkxWoCoc"
+    },
+    {
+      "speakers": "Yuliya Kaleda",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(413).jpg?alt=media&token=b70b4a85-5634-4a83-8902-fa85cefb7113",
+      "title": "Make Your App Instant!",
+      "youtubeId": "v4RfZ0f_HVE"
+    },
+    {
+      "speakers": "Tim Messerschmidt",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(350).jpg?alt=media&token=12f727f2-f9c8-4749-b76c-2da7a90cd3bb",
+      "title": "Hands-on Flutter",
+      "youtubeId": "0IY6J5baAj8"
+    },
+    {
+      "speakers": "Gerard Sans",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(370).jpg?alt=media&token=d8627038-bb13-4e07-8e76-feca75e26086",
+      "title": "Reactive Animations Using Angular",
+      "youtubeId": "ij8kaavQ61Y"
+    },
+    {
+      "speakers": "Tom Wilkie",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(352).jpg?alt=media&token=5656ddcc-6ff6-4846-9ef8-22bc0322a5de",
+      "title": "gRPC & Kubernetes",
+      "youtubeId": "YiWgWqOe_PI"
+    },
+    {
+      "speakers": "Mat Ryer",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(363).jpg?alt=media&token=09ffdbc7-b717-49c8-abb8-3bae33552d14",
+      "title": "How I build APIs capable of gigantic scale in Go",
+      "youtubeId": "FkPqqakDeRY"
+    },
+    {
+      "speakers": "Juarez Filho",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(383).jpg?alt=media&token=9aa8263d-e6b3-4141-83f9-17ef48409ec1",
+      "title": "Let Firebase help you to build better Front-end apps",
+      "youtubeId": "xJsgIH4U_DM"
+    },
+    {
+      "speakers": "Andrey Lipattsev",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(412).jpg?alt=media&token=bf36bdf0-cea2-48a6-83e9-a3d6c3226f8f",
+      "title": "AMP in 2018. Still fast, still furious",
+      "youtubeId": "iPwlMr-j76w"
+    },
+    {
+      "speakers": "Ihor Dvoretskyi",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(466).jpg?alt=media&token=76a822f9-9d82-4d5e-83ad-5e3f1593f2fe",
+      "title": "Welcome to the world of Open Source. Stories by Kubernetes contributor",
+      "youtubeId": "HhpHf3GefXI"
+    },
+    {
+      "speakers": "Joanna Chwastowska",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(469).jpg?alt=media&token=80669b99-81f4-4d7d-8160-e0174da62b85",
+      "title": "100x impact - from an Individual Contributor to Technical Leader",
+      "youtubeId": "O1dtdDpQXU8"
+    }
+  ],
+  "previousSpeakers": {
+    "Manikanthan_Krishnamurthy": {
+      "bio": "Mani is based in Google Singapore office and is in the developer relations team for South East Asia.",
+      "company": "Google",
+      "companyLogo": "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "country": "Singapore",
+      "id": "Manikanthan_Krishnamurthy",
+      "name": "Manikanthan Krishnamurthy",
+      "order": 0,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FMani%20BAE_2320a.jpg?alt=media&token=567bb120-1aec-4bff-a8fb-91e58e13512d",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["cloud"],
+            "title": "Cloud Functions"
+          }
+        ]
+      },
+      "title": "Developer Relations Program Manager"
+    },
+    "Kasun_Delgolla": {
+      "bio": "Kasun is currently working as Head of Mobile Innovation and Development at RiverviewB2B where he leads all the mobile specific developments and driving the teams through research and innovations to build consumer solutions. Prior to that Kasun was a Senior Software Engineer at WSO2 which is a globally recognized middleware company. He worked in the mobile/iOT platform team where the focus was on delivering a complete suite of lean enterprise mobileware to solve the mobile computing challenges faced by enterprises.",
+      "company": "DPIT",
+      "companyLogo": "https://devfest-17.firebaseapp.com/images/logos/riverviewb2b.png",
+      "country": "Sri Lanka",
+      "id": "Kasun_Delgolla",
+      "name": "Kasun Delgolla",
+      "order": 1,
+      "photoUrl": "https://devfest-17.firebaseapp.com/images/people/kasun_delgolla.jpg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["CloudApp", "Engine"],
+            "title": "Deploy Node.js Express Application in App Engine"
+          }
+        ],
+        "2018": [
+          {
+            "tags": ["ARCore", "GCP"],
+            "title": "AR Core with Cloud Anchors"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/kasundananjaya/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Senior Technical Lead - Information Security"
+    },
+    "Keshan_Sodimana": {
+      "bio": "Keshan is the country engineering consultant for Google Sri Lanka. Keshan was the GDG lead and founder for GDG Sri Lanka. Before joining Google, he was a Software Developer for IFS, and he is a co-founder of Siyomek Holdings",
+      "company": "Google",
+      "companyLogo": "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "country": "Sri Lanka",
+      "id": "Keshan_Sodimana",
+      "name": "Keshan Sodimana",
+      "order": 2,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F1901173_10203074120595094_1450286311_n.jpg?alt=media&token=aad38900-f8e7-4f71-9bca-f9c64157c75c",
+      "sessions": {
+        "2016": [
+          {
+            "tags": ["Machine Learning"],
+            "title": "Machine Learning Codelab"
+          }
+        ],
+        "2017": [
+          {
+            "title": "Intro to TensorFlow",
+            "tags": ["Machine Learning", "TensorFlow"]
+          }
+        ],
+        "2018": [
+          {
+            "title": "Let's Kaggle",
+            "tags": ["Machine Learning", "TensorFlow"]
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/keshan",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Country Engineering Consultant"
+    },
+    "Christina_Funk": {
+      "bio": "After graduating from Princeton University, Christina joined Cloud and Enterprise at Microsoft as a full stack developer, focusing on data and analytics. Last year, Christina moved to California to be a part of the Crowd 9 team in Research and Machine Intelligence at Google, where she works on creating new tools for data collection and annotation.",
+      "company": "Google",
+      "companyLogo": "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "country": "USA",
+      "id": "Christina_Funk",
+      "name": "Christina Funk",
+      "order": 3,
+      "photoUrl": "https://devfest-17.firebaseapp.com/images/people/christina_funk.jpg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Android", "Crowdsourcing"],
+            "title": "Developing Crowdsourcing Applications"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/christina-funk-506b4478/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Software Engineer"
+    },
+    "Hasitha_Liyanage": {
+      "bio": "Hasitha holds a B.Sc. in Computer Science and Engineering from the University of Moratuwa and has over 14 years of experience in the IT industry. He has expertise in design, architecture and development from his time at MillenniumIT, where he was a Software Architect. He was responsible for several systems ranging from high frequency trading systems for financial markets in the United States, Europe and Hong Kong, to electronic regulatory compliance systems for the Philippines and the International Labour Organization. Hasitha was also Chief Software Architect for Infoshare, and a Technology Consultant for thinkCube Systems, a digital services company specializing in cloud applications. At Sysco LABS, Hasitha heads the engineering & delivery for product engineering at SyscoLABS, leading a team of eighty engineers. Hasitha's scope includes product architecture, technology strategy, training, mentoring and skills development, project management, R&D, as well as engineering standards & processes.",
+      "company": "Sysco LABS",
+      "companyLogo": "https://devfest-17.firebaseapp.com/images/logos/sysco.png",
+      "country": "Sri Lanka",
+      "id": "Hasitha_Liyanage",
+      "name": "Hasitha Liyanage",
+      "order": 4,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FHasitha.png?alt=media&token=7ff28e29-d941-4b45-ae43-8c1823f9cb3c",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Go", "Android"],
+            "title": "Getting Started with Golang"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/hliyan/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Senior Director, Technology and Architecture"
+    },
+    "Priyanka_Suduge": {
+      "bio": "Priyanka Suduge is a Principal Software Engineer at Pearson, working on mobile technologies. He was previously employed at Canon, Sony, Virtusa and MetaTechno Inc. Japan. He brings 13 years of industry experience on various technologies including mobile, real-time systems and firmware. He holds a Bachelor's Degree in Engineering, and a Master's Degree in Software Architecture, both from University of Moratuwa.",
+      "company": "Pearson",
+      "companyLogo": "https://devfest-17.firebaseapp.com/images/logos/pearson.png",
+      "country": "Sri Lanka",
+      "id": "Priyanka_Suduge",
+      "name": "Priyanka Suduge",
+      "order": 5,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FProfilePic_Priyanka.jpg?alt=media&token=164934fa-c347-4e49-8e13-65213e96980a",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Go", "Android"],
+            "title": "Getting Started with Golang"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/priyanka-suduge-32796923/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Principal Software Engineer"
+    },
+    "Amalka_Pathirage": {
+      "bio": "Amalka has been in Software Engineering for about 10 years and most of his career is focused on mobile application development and in Android. He is also keen on other mobile platforms like Windows Mobile, and iOS. Amalka is a Technical Lead in Pearson working on mobile technologies.He holds a Bachelor's Degree in IT from SLIIT and a Master's Degree in Enterprise Application Development from Sheffield Hallam University.",
+      "company": "Pearson",
+      "companyLogo": "https://devfest-17.firebaseapp.com/images/logos/pearson.png",
+      "country": "Sri Lanka",
+      "id": "Amalka_Pathirage",
+      "name": "Amalka Pathirage",
+      "order": 6,
+      "photoUrl": "https://media.licdn.com/dms/image/C4D03AQEYjhR5_oAkVQ/profile-displayphoto-shrink_800_800/0?e=1541030400&v=beta&t=Nq6u42U16RaAi5S00BJMtqqN9yyjjz2kUTSb82-gi7Q",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Kotlin", "Android"],
+            "title": "Taking Advantage Of Kotlin"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/amalka-pathirage-65ba3a13",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Senior Technical Lead"
+    },
+    "Shafraz_Rahim": {
+      "bio": "Shafraz is a former developer relations manager for Dialog Ideamart and he has been in the industry for a long time with mobile app development and entrepreneurship as his talents.",
+      "company": "Google",
+      "companyLogo": "https://devfest-17.firebaseapp.com/images/logos/google.svg",
+      "country": "Sri Lanka",
+      "id": "Shafraz_Rahim",
+      "name": "Shafraz Rahim",
+      "order": 7,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FShafraz%20Rahim.jpg?alt=media&token=c7496d97-1f23-4a65-89f7-c13ef12f0462",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["NLP", "Ideamart"],
+            "title": "Build an Interactive Customer Review System using Google NLP and Ideamart APIs"
+          }
+        ],
+        "2018": [
+          {
+            "tags": ["GCP"],
+            "title": "Google Cloud is for you"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/shafrazrahim/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Cloud Community Manager"
+    },
+    "Lucas_Dixon": {
+      "bio": "Lucas Dixon is Chief Scientist at Jigsaw. His work focuses on security, machine intelligence and data visualization. Public projects he helped build include uProxy, Project Shield, DigitalAttackMap, Syria Defection Tracker, and unfiltered.news. He currently leads the Conversation AI research effort. Before Google and Jigsaw, Lucas was a scientist at the University of Edinburgh and worked on the automation of mathematical thinking, graphical languages to describe quantum information, and technology to enable more rational and informed debate. He was a co-founder of TheoryMine Ltd., a company automates the discovers new non-trivial mathematical theorems. He received his PhD in Computer Science and Artificial Intelligence from the University of Edinburgh.",
+      "company": "Google",
+      "companyLogo": "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "country": "USA",
+      "id": "Lucas_Dixon",
+      "name": "Lucas Dixon",
+      "order": 8,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FLucas%20Dixon%20.jpg?alt=media&token=0fa00415-c39e-4824-b715-fd8db1a4a093",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["machine intelligence"],
+            "title": "The Conversation AI Perspective"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/lucas-dixon-94070354/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Chief Scientist"
+    },
+    "Michael_Tseng": {
+      "bio": "After completing undergraduate studies in Greek, Latin, German, and mathematics at the University of Pennsylvania and graduate studies in linguistics at UCLA, He joined Google to work on human computation (crowdsourcing) in Ads, Research, and Machine Intelligence. he is particularly interested in empowering people everywhere to contribute unique insights from their daily experiences, which will make our products more humanistic and more representative of the diversity of the world.",
+      "company": "Google",
+      "companyLogo": "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "country": "USA",
+      "id": "Michael_Tseng",
+      "name": "Michael Tseng",
+      "order": 9,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FMicheal.jpeg?alt=media&token=c9fd8e46-6685-4fba-92c2-0650ab823ce6",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["machine intelligence", "Linguist"],
+            "title": "Linguistic Wisdom from the Crowd"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/michaeltseng/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Linguis"
+    },
+    "Thilina_Premasiri": {
+      "bio": "Thilina is an expert in game development who has spearheaded the development of Sri Lanka's first ever mainstream 3D game 'Kanchayudha' and currently works with Arimac on the 3D game development animations.",
+      "company": "Arimac",
+      "companyLogo": "https://devfest-17.firebaseapp.com/images/logos/arimac.png",
+      "country": "Sri Lanka",
+      "id": "Thilina_Premasiri",
+      "name": "Thilina Premasiri",
+      "order": 10,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2FThilina.jpg?alt=media&token=c2b2d4a2-3e10-4df6-bfb1-8b96689146f8",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Unity"],
+            "title": "Game development demo with Unity"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/thilinapremasiri/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Director | Head of Game Development"
+    },
+    "Chathu_Wishwajith": {
+      "bio": "He is Co-Founder of a Startup where few of its products are powered by Full-stack JS.an Auth0 Ambassador, Unity User Group Leader and Co-Organizer of Colombo JS Meetup.",
+      "company": "0Auth",
+      "companyLogo": "https://devfest-17.firebaseapp.com/images/logos/0auth.pngg",
+      "country": "Sri Lanka",
+      "id": "Chathu_Wishwajith",
+      "name": "Chathu Wishwajith",
+      "order": 11,
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F22136978_1461077107314950_4234447999710259095_o.jpg?alt=media&token=e5016dad-10c2-40f0-9e90-9c17c03d97e2",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["JavaScript"],
+            "title": "It's someone else's servers"
+          }
+        ],
+        "2018": [
+          {
+            "tags": ["Flutter"],
+            "title": "Say hi to Flutter"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/thilinapremasiri/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Auth0 Ambassador"
+    },
+    "Sajeetharan_Sinnathurai": {
+      "badges": [
+        {
+          "description": "Angular Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/sajeetharan-sinnathurai",
+          "name": "gde"
+        }
+      ],
+      "bio": "Sajeetharan is a full stack developer with over 8 years of experience. He works as a Senior Tech Lead at 99X Technology (Pvt) Ltd, specializing in different software products. He is also a Microsoft MVP for developer technologies while He is the top contributor on Stack Overflow from Sri Lanka and ranks among the top 10 in the world for the tags angular, cosmosdb, etc. He makes use of his extensive knowledge over the past years to contribute to open source products to make the world a better place.",
+      "company": "99X Technology",
+      "companyLogo": "https://media.licdn.com/dms/image/C4E0BAQEzXye_5e8j8A/company-logo_200_200/0?e=1547078400&v=beta&t=dYQW4DOhG76BoC5VUvcpYAAZ24hV0d7G4c0Suakfx4M",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQEzXye_5e8j8A/company-logo_200_200/0?e=1547078400&v=beta&t=dYQW4DOhG76BoC5VUvcpYAAZ24hV0d7G4c0Suakfx4M",
+      "country": "Colombo , Sri Lanka",
+      "featured": true,
+      "name": "Sajeetharan Sinnathurai",
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["Web"],
+            "title": "Zero to Hero"
+          }
+        ]
+      },
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F29025393_10155092599246441_7284857292248571903_n%20-%20Sajeetharan%20Sinnathurai.jpg?alt=media&token=70bf3519-554d-46cf-8ea9-20b030e0d6ce",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F29025393_10155092599246441_7284857292248571903_n%20-%20Sajeetharan%20Sinnathurai.jpg?alt=media&token=70bf3519-554d-46cf-8ea9-20b030e0d6ce",
+      "shortBio": "Sajeetharan is a full stack developer with over 8 years of experience.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sajeetharan",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Senior Tech Lead"
+    },
+    "Ahmad_Shah": {
+      "badges": [
+        {
+          "description": "Googler",
+          "link": "www.google.com",
+          "name": "google"
+        }
+      ],
+      "bio": "Googler helping apps publishers in South Asia grow their businesses.Previosuly, he led Content and Digital services team at Telenor and oversaw the launch of internet-based services ( apps/ mobile responsive portals ) both in-house and in partnerships with publishers. Devised strategic blueprint for entertainment product partnerships and drove mobile4develpment (health, education and mAgriculture) agenda.Prior to Telenor, he graduated from the full-time MBA program at UCLA Anderson in July 2013, where he was US Fulbright Scholar. As Summer Associate for Adobe, Inc. he worked on Business Process Optimization project. Overall, he has over 6 years experience in cellular industry in various roles.His specialties are Product Management, Project Management, Content Acquistion,Product Marketing, Development, Market Analytics, Feasibility Research, Product Design, Cross-functional Leadership, Contract Negotiation, Obtaining Approvals",
+      "company": "Google",
+      "companyLogo": "../images/logos/google.svg",
+      "companyLogoUrl": "../images/logos/google.svg",
+      "country": "Singapore",
+      "featured": true,
+      "name": "Ahmad Shah Nawaz",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F0.jpg?alt=media&token=801eb04a-ecb7-4d73-b674-d10c85b2d39f",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F0.jpg?alt=media&token=801eb04a-ecb7-4d73-b674-d10c85b2d39f",
+      "shortBio": "Googler helping apps publishers in South Asia grow their businesses.Previosuly, he led Content and Digital services team at Telenor and oversaw the launch of internet-based services ( apps/ mobile responsive portals ) both in-house and in partnerships with publishers.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ahmad-shah-nawaz-88aba0a",
+          "name": "LinkedIn"
+        }
+      ],
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["Android"],
+            "title": "Publish and Earn with Google"
+          }
+        ]
+      },
+      "title": "Head of Partnerships, South Asia Frontier"
+    },
+    "Fiqri_Ismail": {
+      "bio": "Fiqri is an Architect and Development Technologies Microsoft MVP for 12 consecutive years.He has more than 15 years of experience in the industry. His expertise expands in to various technologies such in .NET, C#, JavaScript, Delphi, PHP, Azure and Cloud Technologies. Also, he is the author of the book .NET Standard 2.0 Cookbook. Also Fiqri is the community leader, a speaker at Sri Lanka Developer Forum and writes articles on a variety of subjects on his personal blog.",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Colombo , Sri Lanka",
+      "featured": true,
+      "name": "Fiqri Ismail",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F24177137_10155853914913665_3841151357267765463_n%20-%20Fiqri%20Ismail.jpg?alt=media&token=abe7e30e-e3dd-40a1-9e3b-53434dfc1c19",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F24177137_10155853914913665_3841151357267765463_n%20-%20Fiqri%20Ismail.jpg?alt=media&token=abe7e30e-e3dd-40a1-9e3b-53434dfc1c19",
+      "shortBio": "Fiqri is an Architect and Development Technologies Microsoft MVP for 12 consecutive years.He has more than 15 years of experience in the industry.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/fiqriismail/",
+          "name": "LinkedIn"
+        }
+      ],
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["GCP", "Cloud"],
+            "title": "Your first ASP.NET Core Application in GCP"
+          }
+        ]
+      },
+      "title": "Software Architect"
+    },
+    "Raveen_Harith": {
+      "bio": "Raveen currently works as a Software Engineer at MillenniumIT and is also an organizer of GDG Sri Lanka. He is also the co-founder of RSVP.LK and is a mentor for Google Summer of Code and Google Code-in for SCoRe Lab.",
+      "company": "LSEG Technology",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FLSEG_TECHNOLOGY_logo_S.png?alt=media&token=d5ba4a21-5c61-4fa7-8018-245ce4f15035",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FLSEG_TECHNOLOGY_logo_S.png?alt=media&token=d5ba4a21-5c61-4fa7-8018-245ce4f15035",
+      "country": "Colombo , Sri Lanka",
+      "featured": true,
+      "badges": [
+        {
+          "description": "GDG Sri Lanka",
+          "link": "",
+          "name": "gdg"
+        }
+      ],
+      "name": "Raveen Harith Perera",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fraveen.png?alt=media&token=cd4efdf6-41fa-4249-85da-af109588bece",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fraveen.png?alt=media&token=cd4efdf6-41fa-4249-85da-af109588bece",
+      "shortBio": "Raveen currently works as a Software Engineer at MillenniumIT and is also an organizer of GDG Sri Lanka.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/rhperera/",
+          "name": "LinkedIn"
+        }
+      ],
+      "sessions": {
+        "2018": [
+          {
+            "tags": ["ML", "AI"],
+            "title": "Get your hands dirty with Tensorflow"
+          }
+        ]
+      },
+      "title": "Software Engineer"
+    },
+    "Sharatchandra_Aithal": {
+      "bio": "Sharatchandra Aithal who is the latest member of the Unity India team has been using Unity 3D for over 10 years spanning from Gaming to the Non Gaming segments of the industry. Previously as an entrepreneur, sharatchandra has delivered a multitude of projects in the XR space.",
+      "company": "Unity",
+      "companyLogo": "https://banner2.kisspng.com/20180708/jyu/kisspng-unity-3d-computer-graphics-video-game-logo-game-en-hands-unity-5b41e77236aac3.1283681515310457462239.jpg",
+      "companyLogoUrl": "https://banner2.kisspng.com/20180708/jyu/kisspng-unity-3d-computer-graphics-video-game-logo-game-en-hands-unity-5b41e77236aac3.1283681515310457462239.jpg",
+      "country": "India",
+      "featured": true,
+      "name": "Sharatchandra Aithal",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FScreen_Shot_2018-08-02_at_2.webp?alt=media&token=35a5cee7-bc95-4d43-8bc3-f56d7e6ede9e",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FScreen_Shot_2018-08-02_at_2.webp?alt=media&token=35a5cee7-bc95-4d43-8bc3-f56d7e6ede9e",
+      "shortBio": "Sharatchandra Aithal who is the latest member of the Unity India team has been using Unity 3D for over 10 years spanning from Gaming.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sharatchandra-aithal-08304a39/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Field Engineer"
+    },
+    "Chamantha_De_Silva": {
+      "bio": "Chamantha is currently working as a Technical Lead for SyscoLabs.Experienced, delivery-focused developer/development manager. Has designed and built successful enterprise API solutions, API Management solutions for Cake Corporation and Sysco. Furthermore, he has worked on surrounded technologies including areas such as securing services using OpenID Connect/SAML and OAuth2. Prior to SyscoLABS, Chamantha has built solutions for Thomson Reuters Health Care (now Truven Health Analytics) during his career in Virtusa Corporation. Currently playing a pivotal role as an evangelizer on product innovation and engineering in Sysco integration space Chamantha has a BSc in Computer Science from the Staffordshire University.",
+      "company": "SyscoLabs",
+      "companyLogo": "https://devfest-17.firebaseapp.com/images/logos/sysco.png",
+      "companyLogoUrl": "https://devfest-17.firebaseapp.com/images/logos/sysco.png",
+      "country": "Colombo , Sri Lanka",
+      "featured": true,
+      "name": "Chamantha De Silva",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FChamantha.jpg?alt=media&token=45da2c04-1d62-46f6-ac52-667352f36e78",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FChamantha.jpg?alt=media&token=45da2c04-1d62-46f6-ac52-667352f36e78",
+      "shortBio": "Chamantha is currently working as a Technical Lead for SyscoLabs.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/chamantha/",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Technical Lead"
+    },
+    "Lilan_Priyashantha": {
+      "bio": "",
+      "company": "LSEG Technology",
+      "companyLogo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FLSEG_TECHNOLOGY_logo_S.png?alt=media&token=d5ba4a21-5c61-4fa7-8018-245ce4f15035",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/logos%2FLSEG_TECHNOLOGY_logo_S.png?alt=media&token=d5ba4a21-5c61-4fa7-8018-245ce4f15035",
+      "country": "Colombo , Sri Lanka",
+      "featured": true,
+      "name": "Lilan Priyashantha",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FFB_IMG_1541052051893.jpg?alt=media&token=5578ef9d-413c-4d56-991c-325b7b88fae5",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FFB_IMG_1541052051893.jpg?alt=media&token=5578ef9d-413c-4d56-991c-325b7b88fae5",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/lilanpriyashantha",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Cheif Engineer Trading Systems"
+    },
+    "Rohan_Jayaweera": {
+      "bio": "Rohan is currently the Country General Manager for Palo Alto Networks. The world’s leader in cyber security deliverying end to end security for organisations. Rohan is also a director of the only boutique & exclusive omni­channel digital experience management company ­ Antyra Solutions. Antyra Solutions is a unique digital services business in Sri Lanka with some of the most digitally demanding customers in it’s portfolio. Antyra delivers an end to end experience & a single point of accountability for customers on digital engagements.Before Antyra, Rohan’s most significant career position was being the first representative of Google for Sri Lanka. The work he started at Google he extended from Google onto Antyra with a more holistic view by helping brands, organizations and Sri Lanka government to develop its digital practices. As the Country Consultant at Google for Sri Lanka & Maldives he managed all engagements to and from Google for Sri Lanka during his tenure which included digital practice, policy framework, publisher, video & telco partnerships,community and entrepreneurship development. Rohan has deep understanding of channel/partner and eco­system business development having worked with technology brands. Rohan was a lead management consultant for IT sector based in Singapore & held leadership positions in Cisco, Lenovo & IBM across geographies. At early days he was awarded the prestigious award of head prefectship of Royal College.Rohan is passionate about entrepreneurship & Innovation. He is a key note speaker, presenter, moderator for countless events & was invited to speak at the inaugural TEDx in SL on entrepreneurship.",
+      "company": "Palo Alto Networks",
+      "companyLogo": "https://www.threatscape.com/wp-content/uploads/2016/04/PAN-logo-2017.png",
+      "companyLogoUrl": "https://www.threatscape.com/wp-content/uploads/2016/04/PAN-logo-2017.png",
+      "country": "Colombo , Sri Lanka",
+      "featured": true,
+      "name": "Rohan Jayaweera",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2Frohan.jpg?alt=media&token=174a5315-18d0-4286-bc8b-b84974db671e",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2Frohan.jpg?alt=media&token=174a5315-18d0-4286-bc8b-b84974db671e",
+      "shortBio": "Rohan is currently the Country General Manager for Palo Alto Networks. The world’s leader in cyber security deliverying end to end security for organisations.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/rohan-jayaweera-9b42a95",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Country General Manager"
+    },
+    "Milindu_Sanoj": {
+      "bio": "Graduated with a BSc in Computer Science from University of Colombo School of Computing in 2017 and now working as a full-stack Software Engineer at Sysco Labs. Have been working with GDG Sri Lanka for about couple of years and now managing the GDG Cloud Sri Lanka chapter. Open source enthusiast and has contributed to Apache, Sahana and several other organisations.",
+      "company": "SyscoLabs",
+      "companyLogo": "https://devfest-17.firebaseapp.com/images/logos/sysco.png",
+      "companyLogoUrl": "https://devfest-17.firebaseapp.com/images/logos/sysco.png",
+      "country": "Colombo , Sri Lanka",
+      "featured": true,
+      "name": "Milindu Sanoj",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmilidu.jpg?alt=media&token=5bbfeb1d-542d-4172-aaa6-b75c58a7c015",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmilidu.jpg?alt=media&token=5bbfeb1d-542d-4172-aaa6-b75c58a7c015",
+      "shortBio": "Graduated with a BSc in Computer Science from University of Colombo School of Computing in 2017 and now working as a full-stack Software Engineer at Sysco Labs.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/agentmilindu",
+          "name": "LinkedIn"
+        }
+      ],
+      "badges": [
+        {
+          "description": "GCP Google Developer Expert",
+          "link": "",
+          "name": "gde"
+        }
+      ],
+      "title": "Software Engineer"
+    },
+    "Malinda_Rathnayake": {
+      "bio": "Malinda received his Bachelor of Engineering (B.Eng) in Software Engineering from the University of Westminster, UK. He has over 8 years of experience in different technological fields and currently work at Dialog Axiata, leading Ideamart platform development, IoT Research and Product Development. He is the co founder of Creacle - a software development startup and also worked as a contributor for Hanthana Linux. Malinda is the creator of slr.malindaprasad,com, the popular public train schedule website. He loves music, photography and his car KT 2019.",
+      "company": "Ideamart",
+      "companyLogo": "https://devfest-17.firebaseapp.com/images/logos/ideamart.png",
+      "companyLogoUrl": "https://devfest-17.firebaseapp.com/images/logos/ideamart.png",
+      "country": "Colombo , Sri Lanka",
+      "featured": true,
+      "name": "Malinda Rathnayake",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FMalinda%20Rathnayake.jpg?alt=media&token=f6cf7588-cb21-4606-a120-1de3c818dead",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2FMalinda%20Rathnayake.jpg?alt=media&token=f6cf7588-cb21-4606-a120-1de3c818dead",
+      "shortBio": "Malinda received his Bachelor of Engineering (B.Eng) in Software Engineering from the University of Westminster, UK.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/malindaprasad",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Four Whys of NB-IoT"
+    },
+    "Maneesha_Erandi": {
+      "bio": "Maneesha Graduated from UCSC and is currently a Developer at RSVP.LK and also a Flutter enthusiast.",
+      "company": "RSVP.LK",
+      "companyLogo": "https://media.licdn.com/dms/image/C560BAQHC6JkBZ-9eWA/company-logo_200_200/0?e=1549497600&v=beta&t=Bfz4jcaqRFnCD3KhO80Gq-sHLaCdtmSBT3TAP1vEItI",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHC6JkBZ-9eWA/company-logo_200_200/0?e=1549497600&v=beta&t=Bfz4jcaqRFnCD3KhO80Gq-sHLaCdtmSBT3TAP1vEItI",
+      "country": "Colombo , Sri Lanka",
+      "featured": true,
+      "name": "Maneesha Erandi",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2Fmaneesha.jpg?alt=media&token=04af52dc-86fc-470b-a75d-ed474491db3e",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2Fmaneesha.jpg?alt=media&token=04af52dc-86fc-470b-a75d-ed474491db3e",
+      "shortBio": "Maneesha Graduated from UCSC and is currently a Developer at RSVP.LK and also a Flutter enthusiast.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/maneesha-erandi",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Four Whys of NB-IoT"
+    }
+  }
+}

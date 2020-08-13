@@ -1,0 +1,273 @@
+{
+  "title": "GDG DevFest Sri Lanka 2019",
+  "description": "by developers | for developers",
+  "image": "images/social-share.jpg",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "November 23-24, 2019",
+  "partnershipProposition": "https://drive.google.com/file/d/1aa5kyisjCPgAFg7ChmRX_MApF20eECyW/view?usp=sharing",
+  "share": "Share",
+  "followOur": "Follow our",
+  "followUs": "Follow us",
+  "emailUs": "Email us",
+  "partnershipResources": "Partnership Resources",
+  "eventResources": "Event Resources",
+  "buyTicket": "Register",
+  "signIn": "Sign in",
+  "signOut": "Sign out",
+  "viewHighlights": "View Highlights",
+  "offlineMessage": "You can still work offline.",
+  "cachingComplete": "Page Saved. You can now view this site without internet.",
+  "newVersionAvailable": "Page has been updated. Refresh to view latest",
+  "refresh": "Refresh",
+  "position": "Position",
+  "country": "Country",
+  "time": "Time",
+  "faq": "/data/faq.md",
+  "cod": "/data/cod.md",
+  "footer": {
+    "blog": "Blog"
+  },
+  "mySchedule": {
+    "title": "My Schedule",
+    "browseSession": "Browse sessions"
+  },
+  "footerRelBlock": [
+    {
+      "title": "About",
+      "links": [
+        {
+          "name": "GDG Sri Lanka",
+          "url": "https://gdgsrilanka.org/",
+          "newTab": true
+        },
+        {
+          "name": "Google Developers Group",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "name": "Meet the Team",
+          "url": "https://gdgsrilanka.org/team",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "Explore Past DevFests",
+      "links": [
+        {
+          "name": "DevFest 2017",
+          "url": "https://devfest-17.firebaseapp.com/",
+          "newTab": true
+        },
+        {
+          "name": "DevFest 2018",
+          "url": "https://devfest18.gdgsrilanka.org/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "Event Resources",
+      "links": [
+        {
+          "name": "Partnership Proposition",
+          "url": "https://drive.google.com/file/d/1aa5kyisjCPgAFg7ChmRX_MApF20eECyW/view?usp=sharing",
+          "newTab": true
+        },
+        {
+          "name": "Call for Papers",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSc_VsccloepsiPbMnT6TTBLwLBfaFWJn7BRH3T5w6npSGoX7Q/viewform",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "subscribeNote": "No spam, only the latest news and updates!",
+  "codeOfConduct": "Code of Conduct",
+  "aboutBlock": {
+    "title": "What you need to know, before you ask.",
+    "callToAction": {
+      "featuredSessions": {
+        "description": "GDG Sri Lanka brings together the experts in Android, Web and Cloud technologies to DevFest 2019 for full day of sessions, workshops and showcases.",
+        "label": "Explore featured session",
+        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      },
+      "howItWas": {
+        "description": "Described by many as 'the most sought after community tech event', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "label": "See how it was in 2018",
+        "youtubeId": "Npcs4R0Wx0s"
+      }
+    },
+    "statisticsBlock": {
+      "attendees": {
+        "label": "Attendees",
+        "number": "850"
+      },
+      "days": {
+        "label": "Days",
+        "number": "2"
+      },
+      "sessions": {
+        "label": "Sessions",
+        "number": "35 +"
+      },
+      "tracks": {
+        "label": "Tracks",
+        "number": "6"
+      }
+    }
+  },
+  "ticketsBlock": {
+    "title": "Tickets",
+    "ticketsDetails": "Day 1 Tickets grant access to workshops, lunch and snacks for codelabs on 23rd. Day 2 Tickets grant access to main conference on 24th including lunch and snacks",
+    "soldOut": "You missed it!",
+    "notAvailableYet": "Not available yet",
+    "save": "Save ${discount}% today"
+  },
+  "partnersBlock": {
+    "title": "Partners",
+    "button": "Become a partner",
+    "form": {
+      "title": "Become a partner!",
+      "submitLabel": "Submit",
+      "fullName": "Full Name",
+      "companyName": "Company Name"
+    },
+    "toast": "We will contact you soon!"
+  },
+  "featuredVideos": {
+    "title": "DevFest 2018 featured videos",
+    "callToAction": {
+      "label": "See all videos",
+      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+    }
+  },
+  "blog": {
+    "published": "Published",
+    "suggested": "Up next"
+  },
+  "latestPostsBlock": {
+    "title": "The latest news",
+    "callToAction": {
+      "label": "View all stories",
+      "link": "/blog/"
+    }
+  },
+  "speakers": {
+    "skills": "Skills",
+    "previousYears": "Years",
+    "previousYear": "Year"
+  },
+  "speakersBlock": {
+    "title": "Rockstar speakers",
+    "callToAction": {
+      "label": "View all speakers",
+      "link": "/speakers/"
+    }
+  },
+  "previousSpeakersBlock": {
+    "title": "Previous speakers",
+    "callToAction": {
+      "label": "View all",
+      "link": "/previous-speakers/"
+    }
+  },
+  "galleryBlock": {
+    "title": "#devfestlk18 highlights",
+    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "callToAction": {
+      "label": "See all photos",
+      "link": "https://www.facebook.com/pg/iphotographywithiscreen/photos/?tab=album&album_id=2118181021829916"
+    }
+  },
+  "mapBlock": {
+    "title": "Location"
+  },
+  "subscribeBlock": {
+    "callToAction": {
+      "description": "Get notified about the important conference updates",
+      "label": "Subscribe"
+    },
+    "yourEmail": "Your email",
+    "emailAddress": "Email Address",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "emailRequired": "Please enter a valid email address.",
+    "subscribe": "Subscribe",
+    "subscribed": "Subscribed",
+    "close": "Close",
+    "generalError": "Some error has occured. Please, try again later.",
+    "toast": "Successfully subscribed!"
+  },
+  "team": {
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Sri Lanka](https://gdgsrilanka.org/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Sri Lankan audience to boost development of IT."
+  },
+  "schedule": {
+    "saveSessionsSignedOut": "Sign in to save sessions"
+  },
+  "sessionDetails": {
+    "contentLevel": "Content level",
+    "viewPresentation": "View presentation",
+    "viewVideo": "View video",
+    "speakers": "Speakers"
+  },
+  "speakerDetails": {
+    "sessions": "Sessions"
+  },
+  "notifications": {
+    "default": "Enable notifications",
+    "enabled": "We will miss you but you can unsubscribe anytime",
+    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
+    "subscribe": "Subscribe",
+    "unsubscribe": "Unsubscribe",
+    "enable": {
+      "label": "Enable",
+      "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
+    },
+    "toast": {
+      "title": "Open"
+    }
+  },
+  "aboutOrganizerBlock": {
+    "image": "/images/team.jpg",
+    "blocks": [
+      {
+        "title": "Organizer",
+        "description": "<a href='https://gdgsrilanka.org' target='_blank'>GDG Sri Lanka</a> and GDG Cloud Sri Lanka are the proud organizers of DevFest Sri Lanka 2019",
+        "callToAction": {
+          "label": "Open team page",
+          "link": "/team"
+        }
+      },
+      {
+        "title": "What is a GDG?",
+        "description": "Google Developers Group (GDG) - is an open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "callToAction": {
+          "label": "Read more",
+          "link": "https://developers.google.com/groups/",
+          "newTab": true
+        }
+      }
+    ]
+  },
+  "signInDialog": {
+    "alreadyHaveAccount": "You already have an account",
+    "alreadyUsed": "You've already used",
+    "signInToContinue": {
+      "part1": "Sign in with",
+      "part2": "to continue."
+    }
+  },
+  "filters": {
+    "title": "Filters",
+    "results": "Results",
+    "tags": "Tags",
+    "complexity": "Complexity",
+    "clear": "Clear all"
+  },
+  "addToHomeScreen": {
+    "cta": "Add to Home Screen"
+  }
+}
